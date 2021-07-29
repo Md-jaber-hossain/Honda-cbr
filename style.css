@@ -4,12 +4,13 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+html{
+    overflow-x: hidden;
+}
 
+/* Colors */
 .header-bg{
     background-color: #264653;
-}
-.banner{
-    /* height: 500px; */
 }
 .banner p,h6{
     color: #E0E0E0;
@@ -41,4 +42,10 @@ body{
 }
 .new-honda-w{
     width: 270px;
+}
+.new-honda-bg{
+    background-color: #264653;
+}
+footer span{
+    color: color: #D9DBE1;;
 }
