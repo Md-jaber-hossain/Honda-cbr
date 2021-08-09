@@ -47,8 +47,23 @@ html{
 .new-honda-w{
     width: 270px;
 }
-.new-honda-bg{
-    background-color: #264653;
+.new-honda-w h5{
+    font-weight: bold;
+}
+.new-honda-rounded{
+    border-radius: 20px;
+}
+.honda-rounded{
+    border-radius: 20px;
+}
+.honda-shadow{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.future-bike-color{
+    color: #6C6C6C;
+}
+.future-bike-clr{
+    color: #a5a4a4;
 }
 footer span{
     color:#D9DBE1;
