@@ -44,6 +44,11 @@ html{
 .h2-colour2{
     color: #E76F51;
 }
+.premium-bg{
+    background-image: url(pic/future-2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
 .new-honda-w{
     width: 270px;
 }
